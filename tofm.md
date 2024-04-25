@@ -1,5 +1,40 @@
 # Trace Labs OSINT Field Manual
 
+# Table of Contents
+
+- [Scope](#scope)
+- [Getting Started](#getting-started)
+  - [What is Open Source Intelligence?](#what-is-open-source-intelligence)
+  - [What background or skills do you need to conduct an OSINT investigation?](#what-background-or-skills-do-you-need-to-conduct-an-osint-investigation)
+  - [Why Use OSINT?](#why-use-osint)
+- [Ethics](#ethics)
+  - ["Right" vs "Legal"](#right-vs-legal)
+  - [Responsibility of Investigators](#responsibility-of-investigators)
+- [Safety](#safety)
+  - [Your Safety](#your-safety)
+  - [Safety of Others](#safety-of-others)
+  - [Safety of the Investigation](#safety-of-the-investigation)
+  - [Importance of Passive Reconnaissance](#importance-of-passive-reconnaissance)
+- [Planning and Preparation](#planning-and-preparation)
+  - [Define Your Mission](#define-your-mission)
+  - [Define Success](#define-success)
+  - [Define "Red Lines"](#define-red-lines)
+  - [OpSec](#opsec)
+  - [Sock Puppets](#sock-puppets)
+  - [Virtual Machines](#virtual-machines)
+- [Techniques](#techniques)
+  - [Understanding What You’re Starting With](#understanding-what-youre-starting-with)
+  - [Seeing what’s in front of you](#seeing-whats-in-front-of-you)
+  - [Enumeration](#enumeration)
+  - [Pivoting](#pivoting)
+  - [Photos + Videos](#photos--videos)
+  - [Geolocation](#geolocation)
+- [Resources](#resources)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Collections](#collections)
+  - [Tools](#tools)
+
 # Scope
 
 This manual is meant to serve as a companion document to our OSINT VM, Onoing Ops and Search Party CTFs. Think of this as the printed version of one of our in person workshops. All techniques and considerations put forth in this manual will fall within the guidelines of the Search Party Rules of Engagement (ROE). Techniques will be passive in nature and every effort will be made to protect the participants, the subjects of the investigation and the investigation itself.
