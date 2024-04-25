@@ -1,6 +1,6 @@
 # Trace Labs OSINT Field Manual
 
-# Table of Contents
+## Table of Contents
 
 - [Scope](#scope)
 - [Getting Started](#getting-started)
