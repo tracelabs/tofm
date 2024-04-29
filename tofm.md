@@ -29,17 +29,13 @@
   - [Pivoting](#pivoting)
   - [Photos + Videos](#photos--videos)
   - [Geolocation](#geolocation)
-- [Maximizing Your Interaction with Coaches](#maximizing-your-interaction-with-coaches)
-  - [Engage Proactively](#engage-proactively)
-  - [Feedback and Guidance](#feedback-and-guidance)
-  - [Quality over Quantity](#quality-over-quantity)
-  - [Utilize Their Expertise](#utilize-their-expertise)
-  - [Effective Communication](#effective-communication)
+- [Maximizing Your Interaction with Coaches in Trace Labs Search Party CTFs](#maximizing-your-interaction-with-coaches-in-trace-labs-search-party-ctfs)
 - [Resources](#resources)
   - [Books](#books)
   - [Videos](#videos)
   - [Collections](#collections)
   - [Tools](#tools)
+
 
 # Scope
 
@@ -330,7 +326,7 @@ Similar to the photo/video section above:
     - If outdoors, overall geography. Mountains, desert, ocean and so on.
     - If indoors, clues about the architecture. Shape of light fixtures. Power outlets could give clues to country. Is it inside a hotel or someone’s home? If a hotel, does this correspond to travel they’ve been talking about?
  
-## Maximizing Your Interaction with Coaches in Trace Labs Search Party CTFs
+## Maximizing Your Interaction with Coaches in Trace Labs Search Party CTFs 
 
 In Trace Labs Search Party CTFs, the role of OSINT coaches has significantly evolved from the traditional "judges." Initially, they were tasked with vetting the accuracy and relevance of intelligence submissions according to predefined flags. Now, the role includes a proactive, supportive function to coach participants on crafting high-quality, actionable submissions, enhancing both their current and future OSINT endeavors.
 
