@@ -323,6 +323,25 @@ Similar to the photo/video section above:
     - Time of day and time of year
     - If outdoors, overall geography. Mountains, desert, ocean and so on.
     - If indoors, clues about the architecture. Shape of light fixtures. Power outlets could give clues to country. Is it inside a hotel or someone’s home? If a hotel, does this correspond to travel they’ve been talking about?
+ 
+## Maximizing Your Interaction with Coaches in Trace Labs Search Party CTFs
+
+In Trace Labs Search Party CTFs, the role of OSINT coaches has significantly evolved from the traditional "judges." Initially, they were tasked with vetting the accuracy and relevance of intelligence submissions according to predefined flags. Now, the role includes a proactive, supportive function to coach participants on crafting high-quality, actionable submissions, enhancing both their current and future OSINT endeavors.
+
+### Key Strategies for Engaging with Your Coach
+
+- **Engage Proactively**: Utilize the designated communication channels, such as the Trace Labs Discord server, to actively seek feedback and advice from your coach. This proactive engagement can help clarify any uncertainties and enhance the quality of your submissions.
+
+- **Feedback and Guidance**: Coaches provide detailed feedback, especially on rejected submissions, which is invaluable for refining your techniques and strategies. They guide you on how to align your submissions with the Trace Labs' standards, offering a real learning opportunity during the CTF.
+
+- **Quality over Quantity**: Coaches emphasize the quality of intelligence rather than the volume of submissions. They reject speculative submissions that do not sufficiently support the investigation, urging participants to focus on the actionable relevance of their findings.
+
+- **Utilize Their Expertise**: Coaches bring diverse experiences from the fields of OSINT and cybersecurity. Leverage their feedback to navigate complex information effectively and use their insights to restructure your submissions, establish the case, and create pivot points during the CTF.
+
+- **Effective Communication**: Maintain clear and consistent communication with your coach. Their feedback can significantly influence your performance, providing perspectives that might not be immediately obvious.
+
+By understanding and leveraging your coach's role, you enhance your effectiveness in the CTF and contribute more meaningfully to the real-world outcomes of these competitions. Remember, this collaboration is designed to support your learning and success in the CTF.
+
 
 # Resources
 
