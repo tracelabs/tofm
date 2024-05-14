@@ -37,9 +37,9 @@
 
 # Scope
 
-This manual is meant to serve as a companion document to our OSINT VM, Onoing Ops and Search Party CTFs. Think of this as the printed version of one of our in person workshops. All techniques and considerations put forth in this manual will fall within the guidelines of the Search Party Rules of Engagement (ROE). Techniques will be passive in nature and every effort will be made to protect the participants, the subjects of the investigation and the investigation itself.
+This manual is meant to serve as a companion document to our OSINT VM, Ongoing Ops and Search Party CTFs. Think of this as the printed version of one of our in-person workshops. All techniques and considerations put forth in this manual will fall within the guidelines of the Search Party Rules of Engagement (ROE). Techniques will be passive in nature and every effort will be made to protect the participants, the subjects of the investigation and the investigation itself.
 
-This manual will be focused on People-centric OSINT investigations. Expect to find discussion around social media investigations/techniques and geolocation but don’t be surprised by the absence of things like network infrastructure techniques or other non-people focused investigations. 
+This manual will be focused on people-centric OSINT investigations. Expect to find discussion around social media investigations/techniques and geolocation, but don’t be surprised by the absence of things like network infrastructure techniques or other non-people focused investigations. 
 
 # Getting Started
 
@@ -47,9 +47,9 @@ This manual will be focused on People-centric OSINT investigations. Expect to fi
 
 We think of OSINT as any information that you as a regular citizen would have access to without possessing an sort of special accesses or clearances. For example, in the United States various members of the military or law enforcement will have access to databases of information the average citizen does not. These databases are not OSINT. 
 
-What is or is not OSINT will differ based on your location. Based off the definition above, information considered “open source” in the United States may be protected under GDPR in the European Union so what is OSINT in the USA may not be OSINT in the EU.
+What is or is not OSINT will differ based on your location. Based off the definition above, information considered “open source” in the United States may be protected under GDPR in the European Union so what is OSINT in the USA may not be OSINT in the EU, and vice versa. 
 
-OSINT is commonly associated with electronic research but this doesn’t have to be the case. Some pieces of OSINT may only exist as paper records in a courthouse or as microfiche in a public library. 
+OSINT is commonly associated with electronic research but this doesn’t have to be the case. Some pieces of OSINT may only exist as paper records in a courthouse, as microfiche in a public library, or as a line in a phone book.
 
 ### What background or skills do you need to conduct an OSINT investigation?
 
@@ -58,7 +58,7 @@ The two most important characteristics an investigator can have are:
 - Curiosity
 - Discipline
 
-Aside from those two universal characteristics it will be beneficial to have a background or understanding of the medium in which you will be investigating. For example:
+Aside from those two universal characteristics, it will be beneficial to have a background or understanding of the medium in which you will investigate. For example:
 
 - A social media / people focused (SOCMINT) investigation could require you to have a good understanding of how social media platforms work or how the subject of your investigation communicates and interacts with others.
 - A Real Estate (REOSINT) focused investigation will require to have an understanding of how the buying and selling of property works in your area, where those records are kept and how you can access them.
