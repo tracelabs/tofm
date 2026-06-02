@@ -80,7 +80,7 @@ The amount of information available to the average person today is exponentially
 
 Leveraging Open Source Intelligence (OSINT) allows not only the average person to participate in an investigation, but can also augment and enrich a more traditional style of investigation. Law enforcement agencies around the world incorporate OSINT into more conventional police work, with some larger agencies having dedicated OSINT analysts. Businesses leverage OSINT to protect and monitor their brand and reputation. Cybersecurity teams use OSINT to unmask the bad actors behind malicious infrastructure or connect different pieces of network infrastructure back to one central actor. Individuals can use OSINT when buying or home, going on a date or selecting a caregiver for a child, pet or parent. Journalists use OSINT to uncover details about pretty much every big headline you read.  
 
-THe point is, almost all of us have been OSINTing our entire adult lives. We just didn’t know it was called that.
+The point is, almost all of us have been OSINTing our entire adult lives. We just didn’t know it was called that.
 
 # Ethics
 
